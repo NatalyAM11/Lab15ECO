@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746856933312",
+    "firebase_url": "https://lab14eco.firebaseio.com",
+    "project_id": "lab14eco",
+    "storage_bucket": "lab14eco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746856933312:android:880065fab391b02f288a25",
+        "android_client_info": {
+          "package_name": "com.example.lab15eco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746856933312-1qpea8hfui8v0ptfbmjbds20gvpqs6d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBK98VeE4b8IBjBh2e6Kr9R4CqOAn0TBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746856933312-1qpea8hfui8v0ptfbmjbds20gvpqs6d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
